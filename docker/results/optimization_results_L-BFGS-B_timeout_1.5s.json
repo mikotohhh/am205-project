@@ -1,0 +1,796 @@
+{
+    "MODBEALE": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "NONCVXUN": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "DIXMAANP": {
+        "success": true,
+        "solving_time": 0.1723928451538086,
+        "peak_memory_usage_mb": 6.595806121826172,
+        "function_evaluations": 251
+    },
+    "MOREBV": {
+        "success": true,
+        "solving_time": 0.001531839370727539,
+        "peak_memory_usage_mb": 1.349076271057129,
+        "function_evaluations": 1
+    },
+    "FLETBV3M": {
+        "success": true,
+        "solving_time": 0.06132197380065918,
+        "peak_memory_usage_mb": 3.270671844482422,
+        "function_evaluations": 50
+    },
+    "SBRYBND": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "DIXMAANF": {
+        "success": true,
+        "solving_time": 0.11617517471313477,
+        "peak_memory_usage_mb": 4.710025787353516,
+        "function_evaluations": 169
+    },
+    "BOXPOWER": {
+        "success": true,
+        "solving_time": 0.03711867332458496,
+        "peak_memory_usage_mb": 8.259807586669922,
+        "function_evaluations": 19
+    },
+    "YATP1LS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "ERRINROS": {
+        "success": true,
+        "solving_time": 0.008159160614013672,
+        "peak_memory_usage_mb": 0.0885457992553711,
+        "function_evaluations": 106
+    },
+    "DIXMAANJ": {
+        "success": true,
+        "solving_time": 0.09748482704162598,
+        "peak_memory_usage_mb": 4.088756561279297,
+        "function_evaluations": 142
+    },
+    "YATP2CLS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "SCURLY20": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "DIXMAANA1": {
+        "success": true,
+        "solving_time": 0.007472991943359375,
+        "peak_memory_usage_mb": 1.1168861389160156,
+        "function_evaluations": 13
+    },
+    "POWER": {
+        "success": true,
+        "solving_time": 0.556438684463501,
+        "peak_memory_usage_mb": 33.557918548583984,
+        "function_evaluations": 404
+    },
+    "BROYDN7D": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "VARDIM": {
+        "success": true,
+        "solving_time": 0.0042798519134521484,
+        "peak_memory_usage_mb": 0.14329910278320312,
+        "function_evaluations": 42
+    },
+    "NONDQUAR": {
+        "success": true,
+        "solving_time": 0.6473057270050049,
+        "peak_memory_usage_mb": 37.27682876586914,
+        "function_evaluations": 939
+    },
+    "EXTROSNB": {
+        "success": true,
+        "solving_time": 0.11076116561889648,
+        "peak_memory_usage_mb": 4.875865936279297,
+        "function_evaluations": 593
+    },
+    "PENALTY1": {
+        "success": true,
+        "solving_time": 0.01288604736328125,
+        "peak_memory_usage_mb": 0.7522850036621094,
+        "function_evaluations": 60
+    },
+    "INDEF": {
+        "success": false,
+        "solving_time": 0.06260037422180176,
+        "peak_memory_usage_mb": 3.6895713806152344,
+        "function_evaluations": 61
+    },
+    "SCOSINE": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "WOODS": {
+        "success": true,
+        "solving_time": 0.06627249717712402,
+        "peak_memory_usage_mb": 4.672000885009766,
+        "function_evaluations": 117
+    },
+    "TRIDIA": {
+        "success": true,
+        "solving_time": 0.5663878917694092,
+        "peak_memory_usage_mb": 31.920726776123047,
+        "function_evaluations": 799
+    },
+    "MSQRTBLS": {
+        "success": true,
+        "solving_time": 1.436032772064209,
+        "peak_memory_usage_mb": 10.38333511352539,
+        "function_evaluations": 1274
+    },
+    "OSCIGRAD": {
+        "success": true,
+        "solving_time": 0.9628455638885498,
+        "peak_memory_usage_mb": 64.11263656616211,
+        "function_evaluations": 49
+    },
+    "DQDRTIC": {
+        "success": true,
+        "solving_time": 0.012604713439941406,
+        "peak_memory_usage_mb": 2.0795936584472656,
+        "function_evaluations": 19
+    },
+    "FREUROTH": {
+        "success": true,
+        "solving_time": 0.02400994300842285,
+        "peak_memory_usage_mb": 2.2720069885253906,
+        "function_evaluations": 24
+    },
+    "YATP2LS": {
+        "success": true,
+        "solving_time": 0.0016207695007324219,
+        "peak_memory_usage_mb": 0.023101806640625,
+        "function_evaluations": 15
+    },
+    "DIXMAANH": {
+        "success": true,
+        "solving_time": 0.11295461654663086,
+        "peak_memory_usage_mb": 4.569301605224609,
+        "function_evaluations": 163
+    },
+    "BOX": {
+        "success": true,
+        "solving_time": 0.017377853393554688,
+        "peak_memory_usage_mb": 3.5270423889160156,
+        "function_evaluations": 11
+    },
+    "VAREIGVL": {
+        "success": true,
+        "solving_time": 0.023744821548461914,
+        "peak_memory_usage_mb": 2.195384979248047,
+        "function_evaluations": 22
+    },
+    "MANCINO": {
+        "success": true,
+        "solving_time": 0.02804279327392578,
+        "peak_memory_usage_mb": 0.055907249450683594,
+        "function_evaluations": 14
+    },
+    "EIGENCLS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "CYCLIC3LS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "KSSLS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "DIXMAANB": {
+        "success": true,
+        "solving_time": 0.008448600769042969,
+        "peak_memory_usage_mb": 1.1168251037597656,
+        "function_evaluations": 13
+    },
+    "HILBERTB": {
+        "success": true,
+        "solving_time": 0.0012462139129638672,
+        "peak_memory_usage_mb": 0.0206451416015625,
+        "function_evaluations": 6
+    },
+    "TRIGON1": {
+        "success": true,
+        "solving_time": 0.0027518272399902344,
+        "peak_memory_usage_mb": 0.028449058532714844,
+        "function_evaluations": 27
+    },
+    "FLETCHBV": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "DIXMAANN": {
+        "success": true,
+        "solving_time": 0.20248198509216309,
+        "peak_memory_usage_mb": 7.626354217529297,
+        "function_evaluations": 296
+    },
+    "SCURLY10": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "EIGENBLS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "VANDANMSLS": {
+        "success": true,
+        "solving_time": 0.0020754337310791016,
+        "peak_memory_usage_mb": 0.0299072265625,
+        "function_evaluations": 19
+    },
+    "SSCOSINE": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "INDEFM": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.INDEFM' has no attribute 'setup'"
+    },
+    "EDENSCH": {
+        "success": true,
+        "solving_time": 0.011351346969604492,
+        "peak_memory_usage_mb": 0.9672431945800781,
+        "function_evaluations": 27
+    },
+    "OSCIPATH": {
+        "success": true,
+        "solving_time": 0.001619577407836914,
+        "peak_memory_usage_mb": 0.17641830444335938,
+        "function_evaluations": 7
+    },
+    "DIXON3DQ": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "LUKSAN14LS": {
+        "success": true,
+        "solving_time": 0.006645679473876953,
+        "peak_memory_usage_mb": 0.1178884506225586,
+        "function_evaluations": 86
+    },
+    "STRTCHDV": {
+        "success": true,
+        "solving_time": 0.0022492408752441406,
+        "peak_memory_usage_mb": 0.02634429931640625,
+        "function_evaluations": 23
+    },
+    "SCURLY30": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.SCURLY30' has no attribute 'setup'"
+    },
+    "DIXMAAND": {
+        "success": true,
+        "solving_time": 0.010642528533935547,
+        "peak_memory_usage_mb": 1.1864967346191406,
+        "function_evaluations": 16
+    },
+    "NCB20": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.NCB20' has no attribute 'setup'"
+    },
+    "YATP1CLS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.YATP1CLS' has no attribute 'setup'"
+    },
+    "TRIGON2": {
+        "success": true,
+        "solving_time": 0.0033838748931884766,
+        "peak_memory_usage_mb": 0.028517723083496094,
+        "function_evaluations": 38
+    },
+    "GENHUMPS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "10FOLDTRLS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.10FOLDTRLS' has no attribute 'setup'"
+    },
+    "CURLY10": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.CURLY10' has no attribute 'setup'"
+    },
+    "SSBRYBND": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.SSBRYBND' has no attribute 'setup'"
+    },
+    "LUKSAN12LS": {
+        "success": true,
+        "solving_time": 0.01413869857788086,
+        "peak_memory_usage_mb": 0.1973714828491211,
+        "function_evaluations": 181
+    },
+    "LUKSAN21LS": {
+        "success": true,
+        "solving_time": 0.04288482666015625,
+        "peak_memory_usage_mb": 0.5589284896850586,
+        "function_evaluations": 593
+    },
+    "ARWHEAD": {
+        "success": true,
+        "solving_time": 0.013518571853637695,
+        "peak_memory_usage_mb": 1.9633445739746094,
+        "function_evaluations": 16
+    },
+    "LIARWHD": {
+        "success": true,
+        "solving_time": 0.02167201042175293,
+        "peak_memory_usage_mb": 2.384021759033203,
+        "function_evaluations": 27
+    },
+    "SENSORS": {
+        "success": true,
+        "solving_time": 0.02788090705871582,
+        "peak_memory_usage_mb": 0.060973167419433594,
+        "function_evaluations": 21
+    },
+    "INTEQNELS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.INTEQNELS' has no attribute 'setup'"
+    },
+    "ARGLINB": {
+        "success": false,
+        "solving_time": 0.009089231491088867,
+        "peak_memory_usage_mb": 0.12118816375732422,
+        "function_evaluations": 31
+    },
+    "COSINE": {
+        "success": true,
+        "solving_time": 0.018448352813720703,
+        "peak_memory_usage_mb": 3.984668731689453,
+        "function_evaluations": 17
+    },
+    "LUKSAN15LS": {
+        "success": true,
+        "solving_time": 0.004714488983154297,
+        "peak_memory_usage_mb": 0.062277793884277344,
+        "function_evaluations": 23
+    },
+    "DIXMAANC": {
+        "success": true,
+        "solving_time": 0.00885462760925293,
+        "peak_memory_usage_mb": 1.1383323669433594,
+        "function_evaluations": 14
+    },
+    "SPINLS": {
+        "success": true,
+        "solving_time": 0.06611895561218262,
+        "peak_memory_usage_mb": 1.985987663269043,
+        "function_evaluations": 157
+    },
+    "SPARSINE": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "SROSENBR": {
+        "success": true,
+        "solving_time": 0.012521028518676758,
+        "peak_memory_usage_mb": 2.038799285888672,
+        "function_evaluations": 18
+    },
+    "HILBERTA": {
+        "success": true,
+        "solving_time": 0.0011973381042480469,
+        "peak_memory_usage_mb": 0.01795196533203125,
+        "function_evaluations": 7
+    },
+    "ARGLINA": {
+        "success": true,
+        "solving_time": 0.0023698806762695312,
+        "peak_memory_usage_mb": 0.07461929321289062,
+        "function_evaluations": 4
+    },
+    "BROYDNBDLS": {
+        "success": true,
+        "solving_time": 0.030589580535888672,
+        "peak_memory_usage_mb": 2.4975242614746094,
+        "function_evaluations": 30
+    },
+    "BRYBND": {
+        "success": true,
+        "solving_time": 0.030524253845214844,
+        "peak_memory_usage_mb": 2.4974098205566406,
+        "function_evaluations": 30
+    },
+    "DIXMAANE1": {
+        "success": true,
+        "solving_time": 0.13094258308410645,
+        "peak_memory_usage_mb": 5.966503143310547,
+        "function_evaluations": 224
+    },
+    "MSQRTALS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.MSQRTALS' has no attribute 'setup'"
+    },
+    "LUKSAN17LS": {
+        "success": true,
+        "solving_time": 0.02476334571838379,
+        "peak_memory_usage_mb": 0.1986684799194336,
+        "function_evaluations": 181
+    },
+    "DIXMAANK": {
+        "success": true,
+        "solving_time": 0.09471011161804199,
+        "peak_memory_usage_mb": 4.034809112548828,
+        "function_evaluations": 140
+    },
+    "POWELLSG": {
+        "success": true,
+        "solving_time": 0.02954244613647461,
+        "peak_memory_usage_mb": 3.0327110290527344,
+        "function_evaluations": 44
+    },
+    "DIXMAANO": {
+        "success": true,
+        "solving_time": 0.20357537269592285,
+        "peak_memory_usage_mb": 7.691104888916016,
+        "function_evaluations": 299
+    },
+    "ARGLINC": {
+        "success": true,
+        "solving_time": 0.0031006336212158203,
+        "peak_memory_usage_mb": 0.07919692993164062,
+        "function_evaluations": 7
+    },
+    "BROYDN3DLS": {
+        "success": true,
+        "solving_time": 0.03478860855102539,
+        "peak_memory_usage_mb": 3.032733917236328,
+        "function_evaluations": 44
+    },
+    "LUKSAN13LS": {
+        "success": true,
+        "solving_time": 0.005274772644042969,
+        "peak_memory_usage_mb": 0.09459590911865234,
+        "function_evaluations": 63
+    },
+    "CURLY20": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.CURLY20' has no attribute 'setup'"
+    },
+    "EIGENALS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.EIGENALS' has no attribute 'setup'"
+    },
+    "NONDIA": {
+        "success": true,
+        "solving_time": 0.017839670181274414,
+        "peak_memory_usage_mb": 2.267658233642578,
+        "function_evaluations": 24
+    },
+    "QING": {
+        "success": true,
+        "solving_time": 0.004583835601806641,
+        "peak_memory_usage_mb": 0.0934286117553711,
+        "function_evaluations": 60
+    },
+    "SPARSQUR": {
+        "success": true,
+        "solving_time": 0.06577348709106445,
+        "peak_memory_usage_mb": 5.587940216064453,
+        "function_evaluations": 38
+    },
+    "CYCLOOCFLS": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.CYCLOOCFLS' has no attribute 'setup'"
+    },
+    "DQRTIC": {
+        "success": true,
+        "solving_time": 0.03366684913635254,
+        "peak_memory_usage_mb": 3.4152488708496094,
+        "function_evaluations": 54
+    },
+    "CHAINWOO": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "GENROSE": {
+        "success": true,
+        "solving_time": 0.17359256744384766,
+        "peak_memory_usage_mb": 5.304836273193359,
+        "function_evaluations": 1315
+    },
+    "QUARTC": {
+        "success": true,
+        "solving_time": 0.033547401428222656,
+        "peak_memory_usage_mb": 3.4152488708496094,
+        "function_evaluations": 54
+    },
+    "DIXMAANG": {
+        "success": true,
+        "solving_time": 0.11128973960876465,
+        "peak_memory_usage_mb": 4.563694000244141,
+        "function_evaluations": 163
+    },
+    "ARGTRIGLS": {
+        "success": true,
+        "solving_time": 0.11882448196411133,
+        "peak_memory_usage_mb": 0.7601203918457031,
+        "function_evaluations": 424
+    },
+    "WATSON": {
+        "success": true,
+        "solving_time": 0.004654645919799805,
+        "peak_memory_usage_mb": 0.032576560974121094,
+        "function_evaluations": 68
+    },
+    "FLETCHCR": {
+        "success": true,
+        "solving_time": 1.2275876998901367,
+        "peak_memory_usage_mb": 44.78793716430664,
+        "function_evaluations": 5753
+    },
+    "PRICE3": {
+        "success": true,
+        "solving_time": 0.0019290447235107422,
+        "peak_memory_usage_mb": 0.01862335205078125,
+        "function_evaluations": 17
+    },
+    "CHNROSNB": {
+        "success": true,
+        "solving_time": 0.01454472541809082,
+        "peak_memory_usage_mb": 0.1394948959350586,
+        "function_evaluations": 227
+    },
+    "NCB20B": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.NCB20B' has no attribute 'setup'"
+    },
+    "TQUARTIC": {
+        "success": true,
+        "solving_time": 0.017398834228515625,
+        "peak_memory_usage_mb": 2.344188690185547,
+        "function_evaluations": 26
+    },
+    "LUKSAN16LS": {
+        "success": true,
+        "solving_time": 0.0036132335662841797,
+        "peak_memory_usage_mb": 0.0647268295288086,
+        "function_evaluations": 27
+    },
+    "BDQRTIC": {
+        "success": true,
+        "solving_time": 0.025396347045898438,
+        "peak_memory_usage_mb": 2.497180938720703,
+        "function_evaluations": 30
+    },
+    "DIXMAANM1": {
+        "success": true,
+        "solving_time": 0.6607258319854736,
+        "peak_memory_usage_mb": 26.68497085571289,
+        "function_evaluations": 1125
+    },
+    "LUKSAN11LS": {
+        "success": true,
+        "solving_time": 0.08689570426940918,
+        "peak_memory_usage_mb": 1.1485509872436523,
+        "function_evaluations": 1273
+    },
+    "SPIN2LS": {
+        "success": true,
+        "solving_time": 0.009363412857055664,
+        "peak_memory_usage_mb": 0.0700674057006836,
+        "function_evaluations": 32
+    },
+    "NONMSQRT": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.NONMSQRT' has no attribute 'setup'"
+    },
+    "LUKSAN22LS": {
+        "success": true,
+        "solving_time": 0.009447336196899414,
+        "peak_memory_usage_mb": 0.1403951644897461,
+        "function_evaluations": 114
+    },
+    "FLETCBV3": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "TESTQUAD": {
+        "success": true,
+        "solving_time": 0.003721952438354492,
+        "peak_memory_usage_mb": 0.027922630310058594,
+        "function_evaluations": 51
+    },
+    "DIXMAANI1": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.DIXMAANI1' has no attribute 'setup'"
+    },
+    "POWERSUM": {
+        "success": true,
+        "solving_time": 0.0015921592712402344,
+        "peak_memory_usage_mb": 0.01827239990234375,
+        "function_evaluations": 9
+    },
+    "ENGVAL1": {
+        "success": true,
+        "solving_time": 0.01352548599243164,
+        "peak_memory_usage_mb": 1.9616050720214844,
+        "function_evaluations": 16
+    },
+    "CHNRSNBM": {
+        "success": true,
+        "solving_time": 0.017327308654785156,
+        "peak_memory_usage_mb": 0.1625051498413086,
+        "function_evaluations": 274
+    },
+    "FLETCBV2": {
+        "success": true,
+        "solving_time": 0.0018115043640136719,
+        "peak_memory_usage_mb": 1.349015235900879,
+        "function_evaluations": 1
+    },
+    "ERRINRSM": {
+        "success": true,
+        "solving_time": 0.013409137725830078,
+        "peak_memory_usage_mb": 0.1311941146850586,
+        "function_evaluations": 210
+    },
+    "CURLY30": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "module 'pycutest_cache_holder.CURLY30' has no attribute 'setup'"
+    },
+    "SPMSRTLS": {
+        "success": true,
+        "solving_time": 0.20801234245300293,
+        "peak_memory_usage_mb": 8.271854400634766,
+        "function_evaluations": 181
+    },
+    "PENALTY2": {
+        "success": true,
+        "solving_time": 0.001837015151977539,
+        "peak_memory_usage_mb": 0.08080673217773438,
+        "function_evaluations": 8
+    },
+    "NONCVXU2": {
+        "success": false,
+        "solving_time": null,
+        "peak_memory_usage_mb": null,
+        "function_evaluations": null,
+        "error": "Time limit exceeded"
+    },
+    "DIXMAANL": {
+        "success": true,
+        "solving_time": 0.0855557918548584,
+        "peak_memory_usage_mb": 3.712879180908203,
+        "function_evaluations": 126
+    },
+    "BROWNAL": {
+        "success": true,
+        "solving_time": 0.003271818161010742,
+        "peak_memory_usage_mb": 0.08572769165039062,
+        "function_evaluations": 11
+    },
+    "overall_metrics": {
+        "solved_ratio": "86/125",
+        "total_problems": 125,
+        "solved_count": 86,
+        "unsolved_count": 39,
+        "timeout_condition_seconds": 1.5
+    }
+}
